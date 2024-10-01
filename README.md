@@ -43,7 +43,7 @@ During the Pool, I worked on several projects that helped me develop a solid fou
 
 ### 🐚 [Shell00](https://github.com/KAOUTHAR09/pool-13/tree/main/shell00)
 
-### 🐚 [Shell01](.https://github.com/KAOUTHAR09/pool-13/tree/main/shell01)
+### 🐚 [Shell01](https://github.com/KAOUTHAR09/pool-13/tree/main/shell01)
 
 ### 🔢 [C00](https://github.com/KAOUTHAR09/pool-13/tree/main/c00)
 
@@ -55,7 +55,7 @@ During the Pool, I worked on several projects that helped me develop a solid fou
 
 ### 🔢 [C04](https://github.com/KAOUTHAR09/pool-13/tree/main/c04)
 
-### 🔢 [C05](.https://github.com/KAOUTHAR09/pool-13/tree/main/c05)
+### 🔢 [C05](https://github.com/KAOUTHAR09/pool-13/tree/main/c05)
 
 ### 🔢 [C06](https://github.com/KAOUTHAR09/pool-13/tree/main/c06)
 
